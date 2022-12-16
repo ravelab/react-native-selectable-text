@@ -1,8 +1,4 @@
-#if __has_include(<RCTText/RCTTextSelection.h>)
-#import <RCTText/RCTTextSelection.h>
-#else
 #import "RCTTextSelection.h"
-#endif
 
 #if __has_include(<RCTText/RCTUITextView.h>)
 #import <RCTText/RCTUITextView.h>
